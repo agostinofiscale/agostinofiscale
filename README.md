@@ -31,4 +31,8 @@ Born in Naples, Italy, I grew up learning new technologies every year since I wa
 	<img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-macOs-000000?style=flat-square&logo=Apple&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
 </p>
