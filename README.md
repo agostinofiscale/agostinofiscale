@@ -7,7 +7,7 @@ Born in Naples, Italy, I grew up learning new technologies every year since I wa
 - 👨🏻‍💻 I’m Agostino Fiscale but everyone call me Dino
 - 🏦 I’m currently working at [Net Enjoy](https://www.netenjoy.it/) as Full Stack developer
 - 💻 I’m still trying to learn new technologies
-- ⚡ Fun fact: I'm obsessed with TV shows and Anime!
+- ⚡ Fun fact: I'm obsessed with TV shows and anime!
 
 #### Technologies and tools
 <p>
