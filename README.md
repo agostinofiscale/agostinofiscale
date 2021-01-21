@@ -1,8 +1,13 @@
 <img align="right" src="agostinofiscale_sticker.png" alt="Agostino Fiscale's Animoji using a Macbook" />
 
-# Hi there :wave: I'm Agostino Fiscale!
+# Hello, world! 👋 
 
-Born in Naples, Italy, I grew up learning new technologies every year since I was 11. Currently i'm working as Full Stack Developer at [Net Enjoy](https://www.netenjoy.it/).
+Born in Naples, Italy, I grew up learning new technologies every year since I was 11. I got my high school diploma at I.T.I.S. Alessandro Volta in 2020 after that I started my working career.
+
+- 👨🏻‍💻 I’m Agostino Fiscale but everyone call me Dino
+- 🏦 I’m currently working at [Net Enjoy](https://www.netenjoy.it/) as Full Stack developer
+- 💻 I’m still trying to learn new technologies
+- ⚡ Fun fact: I'm obsessed with TV shows and Anime!
 
 #### Technologies and tools
 <p>
