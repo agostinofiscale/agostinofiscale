@@ -2,7 +2,7 @@
 
 I'm an italian PI-shaped developer, currently working for [@Shopfully](https://shopfully.com/).
 
-Developing since I was 11 years old I used to growing up with technology. When I'm not typing on my keyboards for some projects I like to watch movies/v shows/anime, hit the gym, to think about the next destination for a travel and to ride my motorbike.
+Developing since I was 11 years old I used to growing up with technology. When I'm not typing on my keyboards for some projects I like to watch movies/tv shows/anime, to hit the gym, to think about the next destination for a travel and to ride my motorbike.
 
 # Open source projects
 
