@@ -19,5 +19,5 @@ Sometimes I build things and I make it accessible for everything. If you want to
 These are some useful links:
 
 - My personal website: [agostinofiscale.dev](https://agostinofiscale.dev/)
-- LinkedIn: [Agostino Fiscale](https://twitter.com/matthieunapoli)
+- LinkedIn: [Agostino Fiscale](https://www.linkedin.com/in/agostinofiscale/)
 - Write me: [agostinofiscale@gmail.com](mailto:agostinofiscale@gmail.com)
