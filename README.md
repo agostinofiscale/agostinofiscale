@@ -13,6 +13,7 @@ Sometimes I build things and I make it accessible for everything. If you want to
 | [Presta](https://github.com/agostinofiscale/presta) | Presta is a mobile application to manage Prestashop back office. |
 | [prestashop-bo-rest](https://github.com/agostinofiscale/prestashop-bo-rest) |PrestaShop REST API module to manage back office. |
 | [dynamic-widget-for-flutter](https://github.com/agostinofiscale/dynamic-widget-for-flutter) | A set of PHP classes to let you manage your Dynamic Widget UI programmatically. |
+| [LocalizeIt](https://github.com/agostinofiscale/localizeit) | LocalizeIt has a user-friendly interface that makes it easy for developers to manage their translations and keep track of their progress. |
 
 ### Where you can find me
 
